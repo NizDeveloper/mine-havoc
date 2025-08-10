@@ -1,0 +1,9 @@
+res://scenes/maps/level1.tscn
+res://scripts/character/player.gd
+res://scenes/actors/character.tscn
+res://scenes/items/mineral.tscn
+res://scenes/maps/level_2.tscn
+res://scenes/actors/slime.tscn
+res://scripts/entities/slime.gd
+res://scripts/utils/global.gd
+res://scripts/utils/mineral.gd
