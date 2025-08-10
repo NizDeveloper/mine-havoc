@@ -1,0 +1,11 @@
+{
+	"player": {
+		"health": 100,
+		"position": {
+			"x": -376.774475097656,
+			"y": -331.074798583984
+		},
+		"scene": "res://scenes/maps/level_2.tscn",
+		"score": 2
+	}
+}
