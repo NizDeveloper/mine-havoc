@@ -50,10 +50,10 @@ incluyendo:
 
 ## 🎥 Videos demostrativos
 
-[![Gameplay Inicial](https://img.youtube.com/vi/TU_ID_VIDEO_1/0.jpg)](https://youtu.be/TU_ID_VIDEO_1)  
+[![Gameplay Inicial](https://drive.google.com/file/d/1YarlR98hJK_6SLEvg1vygm3jKCcbl0tV/view?usp=sharing)](https://drive.google.com/file/d/1YarlR98hJK_6SLEvg1vygm3jKCcbl0tV/view?usp=sharing)  
 *Exploración inicial y primeros recursos*
 
-[![Combate en las minas](https://img.youtube.com/vi/TU_ID_VIDEO_2/0.jpg)](https://youtu.be/TU_ID_VIDEO_2)  
+[![Combate en las minas](https://drive.google.com/file/d/1FRu_enEIYR24Z06iugBjFTdzMyq-e7zE/view?usp=sharing)](https://drive.google.com/file/d/1FRu_enEIYR24Z06iugBjFTdzMyq-e7zE/view?usp=sharing)  
 *Sistema de combate contra enemigos*
 
 ## 💡 Comentarios sobre el desarrollo
