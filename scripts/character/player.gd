@@ -203,7 +203,7 @@ func damage_to_enemy(body):
 			await get_tree().create_timer(.5).timeout
 			body.queue_free()
 			return
-		await get_tree().create_timer(.5).timeout
+		await get_tree().create_timer(.2).timeout
 
 
 func _on_next_scene_body_entered(body: Node2D) -> void:
